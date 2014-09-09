@@ -1,0 +1,5 @@
+C:\Users\Derek\Desktop\MVC\SimulateMVC\SimulateMVC\bin\SimulateMVC.dll
+C:\Users\Derek\Desktop\MVC\SimulateMVC\SimulateMVC\bin\SimulateMVC.pdb
+C:\Users\Derek\Desktop\MVC\SimulateMVC\SimulateMVC\obj\Debug\SimulateMVC.csprojResolveAssemblyReference.cache
+C:\Users\Derek\Desktop\MVC\SimulateMVC\SimulateMVC\obj\Debug\SimulateMVC.dll
+C:\Users\Derek\Desktop\MVC\SimulateMVC\SimulateMVC\obj\Debug\SimulateMVC.pdb
